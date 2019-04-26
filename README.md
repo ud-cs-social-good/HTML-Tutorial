@@ -34,7 +34,7 @@ info about Newark's Housing laws/codes.
 
 ## Useful Tags
 Some tags that may help you get started:
-* Specify meta info about a page(like page title): `<head> ... </head>`
+* Specify meta information about a page (like page title): `<head> ... </head>`
 * Specify a page's title: `<title> ... </title>`
 * Specify a page's visible content: `<body> ... </body>`
 * Create a large heading: `<h1> ... </h1>`
