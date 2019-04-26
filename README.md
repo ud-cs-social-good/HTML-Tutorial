@@ -1,4 +1,4 @@
-# Intro to using HTML and CSS
+# Intro to using HTML
 
 - [Installation](#installation)
 - [Creating an HTML File](#creating-an-html-file)
