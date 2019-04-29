@@ -1,3 +1,10 @@
+---
+permalink: /index.html
+---
+
+# Link to Website of these
+[Link](https://ud-cs-socialgood.github.io/HTML-Tutorial/)
+
 # Intro to HTML
 
 - [Installation](#installation)
